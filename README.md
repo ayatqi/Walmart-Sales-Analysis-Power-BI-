@@ -2,6 +2,7 @@
 
 ## About the Dataset
 The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+
 The dataset contains 8 columns, including:
   1.	Store Number
   2.	Date: Sales week start date
