@@ -1,6 +1,7 @@
 # Walmart-Sales-Analysis-Power-BI-
 
-[Dataset Link]([url](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)) 
+## About the Dataset
+The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
 The datadet contains 8 columns, includes: 
 1. Store Number
